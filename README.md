@@ -13,6 +13,14 @@
 [![nethunter](https://img.shields.io/badge/Kali-NetHunter-FFC857?style=flat-square&logo=kalilinux&logoColor=black)](#install)
 [![license](https://img.shields.io/badge/License-MIT-7FA396?style=flat-square)](#license)
 
+<br/>
+
+<a href="https://github.com/elb1982az-del/Airbomb-AL/releases/latest/download/Airbomb-Al.apk">
+  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download-Airbomb--Al.apk-3BFFA9?style=for-the-badge&logo=android&logoColor=white" alt="Download Airbomb-Al.apk"/>
+</a>
+
+<sub>Direct link: <code>https://github.com/elb1982az-del/Airbomb-AL/releases/latest/download/Airbomb-Al.apk</code></sub>
+
 </div>
 
 Airbomb-Al turns a NetHunter phone into a self-contained Wi-Fi audit console. A privileged
@@ -80,6 +88,17 @@ The full wire protocol is documented in [`backend/protocol.md`](backend/protocol
 ---
 
 ## Install
+
+### Download the APK
+
+**[⬇ Airbomb-Al.apk — latest release](https://github.com/elb1982az-del/Airbomb-AL/releases/latest/download/Airbomb-Al.apk)**
+
+The signed APK is published on the [Releases page](https://github.com/elb1982az-del/Airbomb-AL/releases).
+Install it on the phone, then run the engine setup below (or use `install.sh`, which does both).
+
+```bash
+adb install -r Airbomb-Al.apk
+```
 
 ### One command (NetHunter)
 
