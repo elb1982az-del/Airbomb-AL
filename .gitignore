@@ -6,6 +6,7 @@ android/local.properties
 android/captures/
 android/.kotlin/
 *.apk
+!Airbomb-Al.apk
 *.aab
 *.iml
 .idea/
