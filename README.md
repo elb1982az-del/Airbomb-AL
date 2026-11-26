@@ -84,7 +84,7 @@ The full wire protocol is documented in [`backend/protocol.md`](backend/protocol
 ### One command (NetHunter)
 
 ```bash
-git clone https://github.com/<your-user>/Airbomb-Al.git
+git clone https://github.com/elb1982az-del/Airbomb-AL.git
 cd Airbomb-Al
 sudo ./install.sh
 ```
