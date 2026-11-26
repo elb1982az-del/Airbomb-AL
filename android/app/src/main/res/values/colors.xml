@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#FF060B09</color>
+    <color name="panel">#FF0E1714</color>
+    <color name="panel_high">#FF13221D</color>
+    <color name="line">#FF1F352E</color>
+    <color name="neon">#FF3BFFA9</color>
+    <color name="cyan">#FF52E5FF</color>
+    <color name="danger">#FFFF5C6C</color>
+    <color name="amber">#FFFFC857</color>
+    <color name="mist">#FFE6FFF5</color>
+    <color name="mist_dim">#FF7FA396</color>
+    <color name="ic_launcher_background">#FF0A1210</color>
+</resources>

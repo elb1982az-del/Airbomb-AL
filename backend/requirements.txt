@@ -1,0 +1,5 @@
+# Airbomb-Al engine — standard library only (Python 3.9+).
+#
+# External tools invoked as subprocesses (installed by install.sh):
+#   iw, airmon-ng, airodump-ng, aireplay-ng, aircrack-ng   (package: aircrack-ng)
+#   wireless-tools                                          (iwconfig/ifconfig)
